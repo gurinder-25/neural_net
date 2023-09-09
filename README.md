@@ -1,4 +1,4 @@
-Neural Net XOR Logic Implementation using NAND, OR, and AND Gates
+# Neural Net XOR Logic Implementation using NAND, OR, and AND Gates
 
 This C++ program demonstrates the implementation of the XOR logic gate using combinations of NAND, OR, and AND gates. XOR (exclusive OR) is a fundamental logic gate that returns true (1) if exactly one of its inputs is true (1), and false (0) otherwise. The program showcases the concept of building a neural network-like structure with basic logical components to solve a specific problem.
 
